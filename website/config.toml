@@ -1,0 +1,4 @@
+baseURL = 'https://test.unitedtalent.com/'
+languageCode = 'en-us'
+title = 'UTA Test Site'
+theme = 'ananke'
